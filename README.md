@@ -1,45 +1,20 @@
-# zaki.data | Personal Portfolio 🚀
+# Zaki Amin Ahmad
+*Software Engineer | Data Analyst | Nocturnal Menace*
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=blue)
+Hi there. I’m a 4th-year CS student at Sheridan College specializing in Data Analytics. I build robust data pipelines by day and get predictably wrecked in *Elden Ring* by night. 
 
-A high-performance, visually immersive personal portfolio engineered to showcase a bridge between Data Analytics and Full-Stack Software Engineering. 
+### The TL;DR
+- **Currently Building:** Complex esports telemetry engines and local AI tools to organize my chaotic directories (*FrankenSorter*).
+- **Agent of Chaos:** I once built a custom npm package (*DOMolition*) purely so users could physically shatter the screen when they rage-quit a bad UI.
+- **AFK Status:** Grinding *cod*, bumping hip-hop, or hitting PRs at the gym at exactly 2:00 AM. Sleep is a secondary objective.
 
-Designed with a custom "Deep Space & Glassmorphism" aesthetic, this single-page application prioritizes smooth user experience, hardware-accelerated animations, and responsive architecture.
+### The Stack
+* **Data & Backend:** Python, Java, SQL, Pandas, NumPy
+* **Frontend & Web:** React.js, Tailwind, Vite
+* **Aesthetic:** Deep space glassmorphism. Dark mode, always.
 
-## 🔗 Live Site
-**zaki-nu.vercel.app**
+### Let's Connect
+Whether you want to talk scalable database architecture or argue about the best operator in R6, I'm around.
 
-## Tech Stack & Architecture
-* **Framework:** React 18 powered by Vite for lightning-fast HMR and optimized build compilation.
-* **Styling:** Tailwind CSS v3 (Custom deep-space color palette & glassmorphism utilities).
-* **Motion & Physics:** Framer Motion for scroll-triggered viewport animations, and custom CSS 3D transforms (`perspective-1000`, `rotate-y-180`) for interactive project cards.
-* **Icons:** `react-icons/fi` (Feather Icons) for clean, minimalist vector graphics.
-
-## Key Features
-* **Interactive Bento Box Profile:** A responsive, asymmetrical grid layout highlighting academic progression, core technical stacks, and personal philosophy.
-* **3D Hardware-Accelerated Cards:** Project showcases feature localized state management to trigger pure CSS 3D flip animations revealing secondary visual data (GIFs/Demos).
-* **Dynamic Timeline:** A custom-built experience timeline featuring state-driven glowing nodes and pulsing "live" indicators for current roles.
-
-## Featured Projects Included
-1. **DOMolition:** A pure JavaScript rage-quit shatter engine utilizing complex DOM manipulation.
-2. **AegisGrid:** An A* pathfinding application demonstrating efficient real-time state management.
-3. **FrankenSorter:** A local AI-powered directory management tool utilizing Python and Ollama.
-
-## Local Development Setup
-
-To run this project locally, ensure you have Node.js installed, then execute the following commands:
-```bash
-# Clone the repository
-git clone [https://github.com/zakiaminn/zaki.git](https://github.com/zakiaminn/zaki.git)
-
-# Navigate into the directory
-cd zaki
-
-# Install dependencies
-npm install
-
-# Boot up the local development server
-npm run dev
+[![Portfolio](https://img.shields.io/badge/Portfolio-zaki.data-8b5cf6?style=for-the-badge)](https://zaki-nu.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakiamin)
