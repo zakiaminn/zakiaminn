@@ -33,7 +33,7 @@
  
 Down to talk scalable database architecture or argue about the best operator in R6. Either works.
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-zaki.data-8b5cf6?style=for-the-badge)](https://zaki-nu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zakiamin.com-8b5cf6?style=for-the-badge)](https://zaki-nu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakiamin)
  
 ![Stats](https://github-readme-stats.vercel.app/api?username=zakiaminn&show_icons=true&theme=dark&hide_border=true)
