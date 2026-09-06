@@ -10,8 +10,8 @@
 
 Final year CS student at Sheridan College, specializing in Data Analytics. Looking for a co-op or new grad role.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zakiamin.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zakiamin.com/)
-[![The Repo Exchange](https://img.shields.io/badge/The_Repo_Exchange-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://www.therepo.exchange/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zakiamin.com-FFD700?style=for-the-badge&labelColor=000000)](https://www.zakiamin.com/)
+[![The Repo Exchange](https://img.shields.io/badge/The_Repo_Exchange-Visit_Site-FFD700?style=for-the-badge&labelColor=000000)](https://www.therepo.exchange/)
 
 </div>
 
@@ -33,6 +33,6 @@ International student from Saudi Arabia. Moved from Dammam, KSA to Oakville, ON 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Check_out_my_portfolio-161b22?style=flat-square&logo=vercel&logoColor=white)](https://www.zakiamin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFD700?style=flat-square&labelColor=000000)](https://www.linkedin.com/in/zakiamin)
 
 </div>
