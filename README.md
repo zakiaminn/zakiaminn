@@ -1,9 +1,3 @@
-/* Code Created by: Zaki Amin Ahmad
-* 2026-09-06
-* README.md
-* GitHub profile README for zakiaminn
-*/
-
 <div align="center">
 
 # Hey, I'm Zaki
