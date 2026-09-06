@@ -1,39 +1,38 @@
-# Zaki Amin Ahmad
- 
-`Software Engineer` · `Data Analyst` · `Nocturnal Menace`
- 
-4th-year CS student at Sheridan College, majoring in Data Analytics. I build robust data pipelines by day and get predictably wrecked in *Elden Ring* by night.
- 
----
- 
-### What I'm up to
- 
-- **Building** — esports telemetry engines that turn match chaos into clean, queryable data, plus local AI tools to tame my directories (*FrankenSorter*).
-- **Occasionally causing problems on purpose** — *DOMolition*, an npm package that lets users literally shatter the screen when a bad UI pushes them over the edge.
-- **Off the clock** — grinding *CoD*, bumping hip-hop, or hitting PRs at the gym around 2 AM. Sleep is a secondary objective.
-### Stack
- 
-**Data & Backend**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
- 
-**Frontend & Web**
- 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
- 
-**Aesthetic** — dark mode duh
- 
-### Let's connect
- 
-Down to talk scalable database architecture or argue about the best operator in R6. Either works.
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zakiamin.com-8b5cf6?style=for-the-badge)](https://zaki-nu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zakiamin)
- 
-![Stats](https://github-readme-stats.vercel.app/api?username=zakiaminn&show_icons=true&theme=dark&hide_border=true)
+/* Code Created by: Zaki Amin Ahmad
+* 2026-09-06
+* README.md
+* GitHub profile README for zakiaminn
+*/
+
+<div align="center">
+
+# Hey, I'm Zaki
+
+Final year CS student at Sheridan College, specializing in Data Analytics. Looking for a co-op or new grad role.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zakiamin.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.zakiamin.com/)
+[![The Repo Exchange](https://img.shields.io/badge/The_Repo_Exchange-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://www.therepo.exchange/)
+
+</div>
+
+## What I'm working on
+
+**The Repo Exchange (TRX)** - treats GitHub repos like tradable assets. Three services: a Next.js terminal for the frontend, a Node/Express order engine with Postgres row-level locking for matching orders, and a Python worker that ingests repo data. Runs at zero monthly cost, which was half the challenge.
+
+**Batin** - a B2B signal platform for trading firms, built around a methodology I call Trap Score. Runs on a Docker stack (FastAPI, TimescaleDB, Redis) and sits on client-provided data infra. This is the project I'd point a recruiter to first.
+
+**Ontario Council Tracker** - pulls and structures municipal council data across Ontario. Still unfinished but it's the project with the most room to grow.
+
+## Stack
+
+Next.js, TypeScript, Node/Express, Python, PostgreSQL, Docker, FastAPI
+
+## Background
+
+International student from Saudi Arabia. Moved from Dammam, KSA to Oakville, ON to pursue specialization in Data Analytics and Software Engineering.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Check_out_my_portfolio-161b22?style=flat-square&logo=vercel&logoColor=white)](https://www.zakiamin.com/)
+
+</div>
