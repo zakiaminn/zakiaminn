@@ -15,8 +15,6 @@ Final year CS student at Sheridan College, specializing in Data Analytics. Looki
 
 **Batin** - a B2B signal platform for trading firms, built around a methodology I call Trap Score. Runs on a Docker stack (FastAPI, TimescaleDB, Redis) and sits on client-provided data infra. This is the project I'd point a recruiter to first.
 
-**Ontario Council Tracker** - pulls and structures municipal council data across Ontario. Still unfinished but it's the project with the most room to grow.
-
 ## Stack
 
 Next.js, TypeScript, Node/Express, Python, PostgreSQL, Docker, FastAPI
