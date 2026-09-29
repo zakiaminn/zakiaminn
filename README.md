@@ -13,7 +13,7 @@ Final year CS student at Sheridan College, specializing in Data Analytics. Looki
 
 **The Repo Exchange (TRX)** - treats GitHub repos like tradable assets. Three services: a Next.js terminal for the frontend, a Node/Express order engine with Postgres row-level locking for matching orders, and a Python worker that ingests repo data. Runs at zero monthly cost, which was half the challenge.
 
-**Batin** - a B2B signal platform for trading firms, built around a methodology I call Trap Score. Runs on a Docker stack (FastAPI, TimescaleDB, Redis) and sits on client-provided data infra. This is the project I'd point a recruiter to first.
+**Batin** - a B2B signal platform for trading firms, built around a methodology I call Trap Score. Runs on a Docker stack (FastAPI, TimescaleDB, Redis) and sits on client-provided data infra. 
 
 ## Stack
 
